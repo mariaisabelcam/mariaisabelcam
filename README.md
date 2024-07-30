@@ -2,7 +2,7 @@
 
 Meu nome é Maria Isabel Modanez de Camargo
 
-- Estudo
+- Estudo na Alura 
 - Estou me desenvolvendo na limguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
