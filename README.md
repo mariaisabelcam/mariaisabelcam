@@ -2,7 +2,7 @@
 
 Meu nome é Maria Isabel Modanez de Camargo
 
-- Aluna da Alura 
+- Aluna da plataforma Alura 
 - Estou me desenvolvendo na limguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
